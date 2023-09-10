@@ -12,4 +12,4 @@ My Skills 👇
 ![Python3](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 
-[![juzvo's wakatime stats](https://github-readme-stats.vercel.app/api/juzvo?username=ffflabs)](https://github.com/juzvo/github-readme-stats)
+[![juzvo's wakatime stats](https://github-readme-stats.vercel.app/api/juzvo?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
